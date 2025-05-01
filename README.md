@@ -26,9 +26,7 @@ FemtoDx/
 
 ## Quickstart Instructions
 
-The easiest way is to use the html files provided in this folder. All code and plots for this project are present in jupyter notebooks, and I rendered those to htmls so you can see all code and plots without executing the code or installing an environment.
-
-If you want to run all the code yourself, you'll need to have conda installed on your laptop:
+Install on your laptop if you don't already have it:
 
 https://www.anaconda.com/docs/getting-started/miniconda/install
 
