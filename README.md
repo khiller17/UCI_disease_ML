@@ -44,3 +44,9 @@ Then do the following:
 	```
 3. Open breast_cancer_analysis.ipynb or heart_disease_analysis.ipynb and run all cells.
 
+
+Data Source: UCI Machine Learning Repository – Heart Disease Dataset
+https://archive.ics.uci.edu/dataset/45/heart+disease
+Data collected from: Cleveland, Hungarian, Long Beach VA, and Switzerland clinical sites.
+Credit to investigators: Andras Janosi, William Steinbrunn, Matthias Pfisterer, Robert Detrano.
+
